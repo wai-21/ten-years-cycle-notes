@@ -4,6 +4,10 @@
 
 **把一本宏观金融学的书，扔进 AI 沙盘里反复拷打之后，留下的决策训练存档。**
 
+> **EN** · A decision-training archive built by throwing Andrew Sheng's *From Asian to Global Financial Crisis* into an AI wargaming loop.
+> 12 macro-finance concepts, each split into **"what the book actually says"** vs **"how it rewired my decisions"** — plus a 30-rule risk-control pipeline for a personal finance-analysis agent. Written in Simplified Chinese.
+
+
 ![主题](https://img.shields.io/badge/%E4%B8%BB%E9%A2%98-12_%E4%B8%AA-1f6feb?style=flat-square)
 ![字数](https://img.shields.io/badge/%E5%AD%97%E6%95%B0-%E7%BA%A6_5.4_%E4%B8%87-2ea043?style=flat-square)
 ![阅读时长](https://img.shields.io/badge/%E9%98%85%E8%AF%BB%E6%97%B6%E9%95%BF-%E7%BA%A6_60_%E5%88%86%E9%92%9F-d29922?style=flat-square)
