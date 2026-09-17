@@ -3,6 +3,9 @@ lang: en
 title: Regulatory Silos, Suppressed Price Signals and the Fallacy of Composition
 description: Every department passes its own checklist while the whole building burns — local compliance sums to systemic ruin, and suppressed prices don't disappear, they detour.
 keywords: regulatory silos, fallacy of composition, macroprudential, price signal suppression, shadow market, regulatory forbearance, too big to fail
+alternates:
+  en: /en/05-regulatory-silos.html
+  zh-CN: /docs/05-监管孤岛-价格信号压抑-合成谬误.html
 ---
 
 > [📚 Index](README.md) · [⬅️ Previous](04-institutional-toxins.md) · [Next ➡️](06-implicit-guarantees-too-big-to-fail.md)

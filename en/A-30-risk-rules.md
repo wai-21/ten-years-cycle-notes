@@ -3,6 +3,9 @@ lang: en
 title: Appendix A — 30 Risk Rules for a Personal Finance-Analysis Agent
 description: A 30-item self-audit pipeline distilled from the 14 concepts of "Ten Years Cycle" — designed to be pasted into an AI agent's system prompt and run silently before any stock or macro report.
 keywords: risk management checklist, AI agent prompt, financial analysis agent, risk control rules, tail risk, due diligence checklist, behavioral finance rules
+alternates:
+  en: /en/A-30-risk-rules.html
+  zh-CN: /docs/A-附录A-30条Agent风控规则.html
 ---
 
 > [📚 Index](README.md) · 🇨🇳 [Chinese full version](../docs/A-附录A-30条Agent风控规则.md)

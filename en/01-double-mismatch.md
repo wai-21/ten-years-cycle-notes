@@ -3,6 +3,9 @@ lang: en
 title: Double Mismatch — The Slow Suicide of Mismatched Maturities and Currencies
 description: The real killer of 1997 Asia was not bad management but two structural mismatches at once — short-term foreign-currency debt funding long-term local-currency assets.
 keywords: double mismatch, maturity mismatch, currency mismatch, short-term external debt, Asian financial crisis 1997, carry trade, equity financing
+alternates:
+  en: /en/01-double-mismatch.html
+  zh-CN: /docs/01-双重错配-期限错配与货币错配.html
 ---
 
 > [📚 Index](README.md) · [⬅️ Previous](README.md) · [Next ➡️](02-liquidity-vs-solvency.md)

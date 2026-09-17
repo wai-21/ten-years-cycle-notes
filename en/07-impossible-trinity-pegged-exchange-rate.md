@@ -3,6 +3,9 @@ lang: en
 title: The Impossible Trinity — A Pegged Exchange Rate Is a Free Put Option
 description: Capital mobility, independent monetary policy and a fixed exchange rate: pick two. A peg plus high rates hands speculators a free put option on the central bank.
 keywords: impossible trinity, trilemma, fixed exchange rate, peg, capital controls, speculative attack, currency crisis, put option, Hong Kong dollar
+alternates:
+  en: /en/07-impossible-trinity-pegged-exchange-rate.html
+  zh-CN: /docs/07-三元悖论-固定汇率-看跌期权.html
 ---
 
 > [📚 Index](README.md) · [⬅️ Previous](06-implicit-guarantees-too-big-to-fail.md) · [Next ➡️](08-hong-kong-1998-peg-defense.md)

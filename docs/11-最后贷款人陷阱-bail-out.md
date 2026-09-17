@@ -2,6 +2,9 @@
 title: 最后贷款人陷阱：当救世主同时是清道夫 · 十年轮回读书笔记
 description: 误把流动性休克当偿付力危机来医，处方本身就是毒药。救助方同时是最后贷款人与资产清道夫。
 keywords: 最后贷款人, bail-out, bail-in, 债转股, 央行救助
+alternates:
+  zh-CN: /docs/11-最后贷款人陷阱-bail-out.html
+  en: /en/11-lender-of-last-resort-trap.html
 ---
 
 > [📚 总目录](../README.md)　·　[⬅️ 上一篇](10-东亚融资模式-裙带资本主义.md)　·　[下一篇 ➡️](12-中国宏观免疫力-坏账手术-资本管制.md)

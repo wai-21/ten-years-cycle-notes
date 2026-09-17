@@ -2,6 +2,9 @@
 title: 从危机到一体化：赤壁连环船——为什么“分散风险”的数学最终让全人类一起沉船 · 十年轮回读书笔记
 description: CDO/CDS 把风险变没了吗？模型假设相关性 0.05，危机时跳到 0.99——分散的数学魔术瞬间变成导火索。
 keywords: CDO, CDS, 高斯联结模型, 相关性突变, 系统性传染, 巴塞尔协议
+alternates:
+  zh-CN: /docs/13-赤壁连环船-CDO-CDS-系统性传染.html
+  en: /en/13-cdo-cds-systemic-contagion.html
 ---
 
 > [📚 总目录](../README.md)　·　[⬅️ 上一篇](12-中国宏观免疫力-坏账手术-资本管制.md)　·　[下一篇 ➡️](14-零波动神话-VaR-动态对冲-黑天鹅.md)

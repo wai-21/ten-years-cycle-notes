@@ -3,6 +3,9 @@ lang: en
 title: The Collateral Machine — What Kills You Is Not Your Own Business
 description: In a mark-to-market world, a neighbor's fire-sale reprices your assets and triggers your margin call — the collateral spiral kills healthy firms.
 keywords: collateral cycle, mark to market, margin call, fire sale, procyclicality, credit spiral, ALM, unencumbered assets
+alternates:
+  en: /en/03-collateral-machine.html
+  zh-CN: /docs/03-抵押品永动机-按市值清算.html
 ---
 
 > [📚 Index](README.md) · [⬅️ Previous](02-liquidity-vs-solvency.md) · [Next ➡️](04-institutional-toxins.md)

@@ -3,6 +3,9 @@ lang: en
 title: CDO, CDS and Systemic Contagion — The Chained Ships of Chibi
 description: Diversification's math fails exactly when you need it: correlation is not a constant but a function of liquidity, and integration removed every firebreak between balance sheets.
 keywords: CDO, CDS, Gaussian copula, correlation breakdown, systemic risk, financial integration, Basel, rating agencies, originate to distribute, chained ships
+alternates:
+  en: /en/13-cdo-cds-systemic-contagion.html
+  zh-CN: /docs/13-赤壁连环船-CDO-CDS-系统性传染.html
 ---
 
 > [📚 Index](README.md) · [⬅️ Previous](12-china-capital-controls-bad-loan-surgery.md) · [Next ➡️](14-var-dynamic-hedging-black-swan.md)

@@ -3,6 +3,9 @@ lang: en
 title: The Zero-Volatility Myth — VaR, Dynamic Hedging and the 1% That Destroys 100%
 description: VaR describes your average day and hides the unbounded tail; portfolio insurance turned the hedge itself into the crash of 1987. Every automated risk system needs a human circuit breaker.
 keywords: VaR value at risk, tail risk, fat tails, dynamic hedging, portfolio insurance, 1987 Black Monday, Black Swan, physics envy, reflexivity, algorithmic trading, procyclical run
+alternates:
+  en: /en/14-var-dynamic-hedging-black-swan.html
+  zh-CN: /docs/14-零波动神话-VaR-动态对冲-黑天鹅.html
 ---
 
 > [📚 Index](README.md) · [⬅️ Previous](13-cdo-cds-systemic-contagion.md) · [Next ➡️](A-30-risk-rules.md)

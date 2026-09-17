@@ -2,6 +2,9 @@
 title: 金融工程的新世界：零波动神话——为什么“99% 安全”足以毁掉 100% · 十年轮回读书笔记
 description: VaR 说 99% 安全，问题在没说出口的那 1%：亏损没有上限。1987 黑色星期一的元凶正是动态对冲本身。
 keywords: VaR, 动态对冲, 组合保险, 黑色星期一, 黑天鹅, 肥尾, 反身性
+alternates:
+  zh-CN: /docs/14-零波动神话-VaR-动态对冲-黑天鹅.html
+  en: /en/14-var-dynamic-hedging-black-swan.html
 ---
 
 > [📚 总目录](../README.md)　·　[⬅️ 上一篇](13-赤壁连环船-CDO-CDS-系统性传染.md)　·　[下一篇 ➡️](A-附录A-30条Agent风控规则.md)

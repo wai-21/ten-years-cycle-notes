@@ -3,6 +3,9 @@ lang: en
 title: Crony Capitalism and East Asian Finance — Turning Equity into Debt Chains
 description: Bank-dominated finance concentrated all social risk in one bucket; relationship lending priced capital by collateral and connections, not returns — the region's deepest institutional wound.
 keywords: crony capitalism, East Asian model, relationship lending, bank-based finance, asset specificity, named equity, governance reform, chaebol
+alternates:
+  en: /en/10-crony-capitalism-east-asia.html
+  zh-CN: /docs/10-东亚融资模式-裙带资本主义.html
 ---
 
 > [📚 Index](README.md) · [⬅️ Previous](09-global-imbalances-ten-year-cycle.md) · [Next ➡️](11-lender-of-last-resort-trap.md)
