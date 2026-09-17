@@ -5,12 +5,12 @@
 **把一本宏观金融学的书，扔进 AI 沙盘里反复拷打之后，留下的决策训练存档。**
 
 > **EN** · A decision-training archive built by throwing Andrew Sheng's *From Asian to Global Financial Crisis* into an AI wargaming loop.
-> 12 macro-finance concepts, each split into **"what the book actually says"** vs **"how it rewired my decisions"** — plus a 30-rule risk-control pipeline for a personal finance-analysis agent. Written in Simplified Chinese.
+> 14 macro-finance concepts, each split into **"what the book actually says"** vs **"how it rewired my decisions"** — plus a 30-rule risk-control pipeline for a personal finance-analysis agent. Written in Simplified Chinese.
 
 
-![主题](https://img.shields.io/badge/%E4%B8%BB%E9%A2%98-12_%E4%B8%AA-1f6feb?style=flat-square)
-![字数](https://img.shields.io/badge/%E5%AD%97%E6%95%B0-%E7%BA%A6_5.4_%E4%B8%87-2ea043?style=flat-square)
-![阅读时长](https://img.shields.io/badge/%E9%98%85%E8%AF%BB%E6%97%B6%E9%95%BF-%E7%BA%A6_60_%E5%88%86%E9%92%9F-d29922?style=flat-square)
+![主题](https://img.shields.io/badge/%E4%B8%BB%E9%A2%98-14_%E4%B8%AA-1f6feb?style=flat-square)
+![字数](https://img.shields.io/badge/%E5%AD%97%E6%95%B0-%E7%BA%A6_7.5_%E4%B8%87-2ea043?style=flat-square)
+![阅读时长](https://img.shields.io/badge/%E9%98%85%E8%AF%BB%E6%97%B6%E9%95%BF-%E7%BA%A6_90_%E5%88%86%E9%92%9F-d29922?style=flat-square)
 ![License](https://img.shields.io/badge/License-CC_BY--NC--SA_4.0-8957e5?style=flat-square)
 
 原书：**[《十年轮回：从亚洲到全球的金融危机》](https://book.douban.com/subject/26824470/)** · 沈联涛（Andrew Sheng）
@@ -25,9 +25,9 @@
 
 一份**决策训练存档**，不是读书摘要。
 
-原始素材来自一条与 AI 的对练对话链：把《十年轮回》里的 12 个宏观金融概念逐一扔进「生活化沙盘」——每个概念都被翻译成一个日常商业困境，配上两三个「听起来都有道理」的选项，做出选择后再被推到极端，看见它怎么死。
+原始素材来自一条与 AI 的对练对话链：把《十年轮回》里的 14 个宏观金融概念逐一扔进「生活化沙盘」——每个概念都被翻译成一个日常商业困境，配上两三个「听起来都有道理」的选项，做出选择后再被推到极端，看见它怎么死。
 
-读完之后留下的不是 12 个知识点，而是**三把判断的尺子**。
+读完之后留下的不是 14 个知识点，而是**三把判断的尺子**。
 
 ## 🎯 为什么值得看
 
@@ -42,7 +42,7 @@
 
 **它标注了置信度，也标注了边界。** 引文与数据逐条核验并标「高 / 中 / 低」；书中未覆盖的章节、AI 生成的教学寓言、沙盘推演自带的「说服力偏误」，全部写进方法论的边界一节，不藏。
 
-## 🗂 12 个主题
+## 🗂 14 个主题
 
 | # | 主题 | 一句话 |
 | :--: | :--- | :--- |
@@ -58,6 +58,8 @@
 | 10 | 东亚融资模式与裙带资本 | 把「股权投资」做成「债务连带」，是东亚体系最大的毒瘤 |
 | 11 | 最后贷款人陷阱 | 当救世主同时是清道夫 |
 | 12 | 中国宏观免疫力与坏账手术 | 为什么坏账 35% 的没死，坏账 15% 的先死 |
+| 13 | 赤壁连环船 | 「分散」的数学魔术在极端冲击下瞬间失效，相关性会从 0.05 跳到 0.99 |
+| 14 | 零波动神话 | 「99% 安全」的模型掩盖了那 1% 里的无限下行——动态对冲是人造踩踏机 |
 
 另含：
 
@@ -71,11 +73,11 @@
 | :--- | :--- |
 | **快速了解这本书在讲什么** | 只读「🚪 先读这里」+ 方法论的边界，约 10 分钟 |
 | **拿它当决策工具** | 直接跳到附录 A 的 30 条风控流水线，抄进你自己的工作流 |
-| **完整跟一遍思维演化** | 从 01 顺读到底，每个主题先自己做选择，再看他被推翻 |
+| **完整跟一遍思维演化** | 从 01 顺读到 14，每个主题先自己做选择，再看他被推翻 |
 
 ## ⚠️ 免责声明
 
-1. **本文中所有场景、公司、人物**（老温、老陈、阿强、老林、老赵……）**均为 AI 生成的商业寓言，没有真实对应主体**，只为承载理论而构造，不是案例研究。
+1. **本文中所有场景、公司、人物**（老温、老陈、阿强、老林、老赵、阿豪、老柯、戴总、戴文……）**均为 AI 生成的商业寓言，没有真实对应主体**，只为承载理论而构造，不是案例研究。
 2. **沙盘的「后果推演」具有强说服力设计**——它总能构造出让你选错的那条连锁反应。它适合训练批判思维，**不能当作实证证据**。
 3. 本笔记**不构成任何投资建议**。
 4. 「原书核心精髓」部分是从沙盘对话中**反向提炼**，并非原书逐页摘录；引文未与纸质书页码逐条比对，核验状态见附录 B。
