@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://wai-21.github.io/ten-years-cycle-notes/sitemap.xml
