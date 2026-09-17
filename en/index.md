@@ -10,6 +10,8 @@ alternates:
 
 # 📘 Ten Years Cycle · English Edition
 
+🌐 [🇨🇳 中文完整版（7.5 万字）](../README.md) · **English edition**
+
 **Notes on Andrew Sheng's *From Asian to Global Financial Crisis* — 14 macro-finance concepts, each thrown into an AI wargame until it broke.**
 
 ## Where to start

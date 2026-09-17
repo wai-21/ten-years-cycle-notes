@@ -1,5 +1,7 @@
 <div align="center">
 
+🌐 **简体中文** ｜ [English](./en/index.md)
+
 # 📘 十年轮回 · 读书笔记与决策训练存档
 
 **沈联涛《十年轮回：从亚洲到全球的金融危机》——14 个主题，全部扔进 AI 沙盘里被极限施压之后，留下的那份记录。**
@@ -15,7 +17,7 @@
 原书：**[《十年轮回：从亚洲到全球的金融危机》](https://book.douban.com/subject/26824470/)** · 沈联涛（Andrew Sheng）· 香港金管局前副总裁、**1997 年港元保卫战的当事人**
 
 ### [👉 零基础？从这篇 30 秒导览开始 →](./docs/00-导览-30秒看懂-术语急救包-演化地图.md)
-### [📂 或直接进分篇目录 →](./docs/README.md)
+### [📂 或直接进分篇目录 →](./docs/index.md)
 ### [🇬🇧 English edition →](./en/README.md)
 
 </div>
@@ -196,7 +198,7 @@ flowchart LR
 
 ## 📄 授权
 
-- **笔记正文**（我的演化与实践部分）：[CC BY-NC-SA 4.0](LICENSE)
+- **笔记正文**（我的演化与实践部分）：[CC BY-NC-SA 4.0](https://github.com/wai-21/ten-years-cycle-notes/blob/main/LICENSE)
 - **原书观点与引文**：版权归沈联涛及出版方所有，此处仅作学习评论之用
 
 ---
