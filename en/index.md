@@ -1,4 +1,5 @@
 ---
+lang: en
 title: Ten Years Cycle — English Edition (Start Here)
 description: English edition of the notes on Andrew Sheng's "From Asian to Global Financial Crisis" — 14 macro-finance rules, a 30-rule risk checklist, and links to the full Chinese archive.
 keywords: Andrew Sheng, From Asian to Global Financial Crisis, Asian financial crisis, financial crisis book notes, risk management rules

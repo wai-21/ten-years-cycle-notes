@@ -1,4 +1,5 @@
 ---
+lang: en
 title: Institutional Toxins — Why the Smartest People Held the Bomb Together
 description: Lehman and Bear Stearns held their own toxic assets to the end. The cause was not stupidity or greed but an incentive structure — profits privatized, risks socialized.
 keywords: moral hazard, institutional toxins, originate to distribute, SIV, regulatory arbitrage, mark to market, skin in the game, Lehman Brothers

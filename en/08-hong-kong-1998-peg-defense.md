@@ -1,4 +1,5 @@
 ---
+lang: en
 title: The 1998 Hong Kong Battle — Change the Rules, Don't Outspend the Speculator
 description: Hong Kong won in August 1998 not by having more money but by rewriting market rules — margins, T+2 delivery and a short squeeze engineered with the Tracker Fund exit.
 keywords: Hong Kong 1998, HKMA, currency board, Link Exchange Rate System, George Soros, hedge funds, short squeeze, Tracker Fund, LTCM, Russia default

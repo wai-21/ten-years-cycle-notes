@@ -1,4 +1,5 @@
 ---
+lang: en
 title: Implicit Guarantees, Cross-Guarantees and Too Big to Fail
 description: Cross-guarantees weave a corporate group into one thin capital cushion; too-big-to-fail is a reverse hostage right against the state.
 keywords: too big to fail, cross guarantee, cross default, ring fencing, tunneling, implicit guarantee, bail-in, moral hazard, chaebol

@@ -1,4 +1,5 @@
 ---
+lang: en
 title: The Lender-of-Last-Resort Trap — When the Savior Is Also the Scavenger
 description: The IMF misdiagnosed Asia's liquidity cardiac arrest as a solvency disease and prescribed shock therapy — the rescuer's second job was asset scavenger for international creditors.
 keywords: lender of last resort, IMF conditionality, shock therapy, AMF, debt standstill, debt restructuring, contingent convertible, collective action clauses, Malaysia capital controls

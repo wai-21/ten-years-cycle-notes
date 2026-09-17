@@ -1,4 +1,5 @@
 ---
+lang: en
 title: China's Macro Immunity and the Bad-Loan Surgery — Why 35% Bad Loans Survived and 15% Died First
 description: In 1997 asset quality did not decide survival — funding structure did. Capital controls, local-currency deposit funding and staged surgery turned a 35% bad-loan system into a slow internal workout.
 keywords: China 1997, capital controls, capital account, bad loans NPL, AMC asset management company, RMB no devaluation, WTO accession, financial repression, sovereign credit

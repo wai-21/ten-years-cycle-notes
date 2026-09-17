@@ -1,4 +1,5 @@
 ---
+lang: en
 title: Ten Years Cycle — Book Notes & Decision-Training Archive (English Edition)
 description: English edition of the Chinese notes on Andrew Sheng's "From Asian to Global Financial Crisis" — 14 macro-finance concepts, each split into "what the book says" vs "how it rewired my decisions", plus a 30-rule risk-control pipeline.
 keywords: Andrew Sheng, From Asian to Global Financial Crisis, Ten Years Cycle, Asian financial crisis 1997, global financial crisis 2008, impossible trinity, CDO, CDS, VaR, dynamic hedging, risk management checklist

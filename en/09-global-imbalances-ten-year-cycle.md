@@ -1,4 +1,5 @@
 ---
+lang: en
 title: Global Imbalances and the Ten-Year Cycle — Defensive Hoarding Becomes the Fuel
 description: Asia's PTSD after 1997 produced trillions in hoarded reserves that flowed back into US bonds, crushed long rates and fed subprime. The reserve country is a hostage, not a creditor.
 keywords: global imbalances, global saving glut, foreign exchange reserves, Triffin dilemma, Greenspan conundrum, ten year cycle, US Treasuries, 2008 crisis

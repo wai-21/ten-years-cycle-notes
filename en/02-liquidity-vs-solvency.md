@@ -1,4 +1,5 @@
 ---
+lang: en
 title: Liquidity vs Solvency — Who Gets Rescued, Who Must Die
 description: Confusing a liquidity crisis with a solvency crisis turns the cure into poison — the single most consequential diagnosis in finance.
 keywords: liquidity crisis, solvency crisis, bank run, lender of last resort, deposit guarantee, haircut, debt restructuring, zombie firms
